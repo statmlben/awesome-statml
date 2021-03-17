@@ -23,3 +23,4 @@ This repository contains a curated list of awesome open source libraries that wi
 
 - **keywords**: sliced inverse regression (SIR), sufficient dimension reduction (SDR), OLS, single-index model
 - **summary**: In single-index model, when Cov(X,Y) is nonzero, OLS is able to recover a minimal sufficient reduction space, yet it fails when Cov(X,Y) = 0.
+
