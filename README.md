@@ -10,6 +10,7 @@ This repository contains a curated list of awesome open source libraries that wi
 |-|-|-|-|
 | :golf: Methodology (METH) | :blue_book: Learning Theory (LT) | :dart: Optimization (OPT) | :mag_right: Statistical Inference (INF) |
 | :computer: Software (SW) | :unlock: Explainable AI (XAI) | :cherries: Biostatistics (BIO) | :keyboard: Empirical Studies (ES) |
+|:dart: Deep Learning (DL) |
 
 ## Must-Read-Refs
 
