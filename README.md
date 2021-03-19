@@ -9,7 +9,7 @@ This repository contains a curated list of awesome open source libraries that wi
 | | | | |
 |-|-|-|-|
 | :golf: Methodology (METH) | :blue_book: Learning Theory (LT) | :dart: Optimization (OPT) | :mag_right: Statistical Inference (INF) |
-| :computer: Software (SW) | :unlock: Explainable AI (XAI) | :cherries: Biostatistics (BIO) | 
+| :computer: Software (SW) | :unlock: Explainable AI (XAI) | :cherries: Biostatistics (BIO) | :keyboard: Empirical Studies (ES) |
 
 ## Must-Read-Refs
 
@@ -24,3 +24,7 @@ This repository contains a curated list of awesome open source libraries that wi
 - **keywords**: sliced inverse regression (SIR), sufficient dimension reduction (SDR), OLS, single-index model
 - **summary**: In single-index model, when Cov(X,Y) is nonzero, OLS is able to recover a minimal sufficient reduction space, yet it fails when Cov(X,Y) = 0.
 
+[ES] Zhang, C., Bengio, S., Hardt, M., Recht, B., & Vinyals, O. (2016). [Understanding deep learning requires rethinking generalization](https://arxiv.org/pdf/1611.03530.pdf). arXiv preprint arXiv:1611.03530.
+
+- **keywords**: deep learning, generalization, random labels
+- **summary**: Deep neural networks easily fit random labels. Figure 1: training errors for true labels, random labels, shuffled pixels, random pixels, are all converge to zeros. Yet the testing error would affect by the label corruption.
