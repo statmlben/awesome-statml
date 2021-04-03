@@ -34,7 +34,7 @@ This repository contains a curated list of awesome open source libraries that wi
 - **keywords**: deep learning, generalization, random labels
 - **summary**: deep neural networks easily fit random labels. Figure 1: training errors for true labels, random labels, shuffled pixels, random pixels, are all converge to zeros. Yet the testing error would affect by the label corruption.
 
-[BIO][METH][OPT][SW] Mak, T. S. H., Porsch, R. M., Choi, S. W., Zhou, X., & Sham, P. C. (2017). [Polygenic scores via penalized regression on summary statistics. Genetic epidemiology](https://onlinelibrary.wiley.com/doi/epdf/10.1002/gepi.22050), 41(6), 469-480.
+[BIO][METH][OPT][SW] Mak, T. S. H., Porsch, R. M., Choi, S. W., Zhou, X., & Sham, P. C. (2017). [Polygenic scores via penalized regression on summary statistics. Genetic epidemiology](https://onlinelibrary.wiley.com/doi/epdf/10.1002/gepi.22050), 41(6), 469-480. [R package: LassoSum](https://github.com/tshmak/lassosum)
 
 - **keywords**: Summary statistics, sparse regression, invalid IVs, lasso, elastic net
 - **summary**: solve LASSO and elastic net based on summary statistics: coordinate descent for Lasso (elastic net) only require summary data.
