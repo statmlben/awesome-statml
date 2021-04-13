@@ -49,7 +49,7 @@ This repository contains a curated list of awesome references for statistics and
 - **keywords**: recommender systems, extreme classification, ranking, candidate set
 - **summary**: A two-stage recommender system: first detail a deep candidate generation model and then describe a separate deep ranking model.
 
-[OPT] Stegle, O., Lippert, C., Mooij, J. M., Larence, N. D., & Borgwardt, K. (2011). [Efficient inference in matrix-variate Gaussian models with iid observation noise](https://proceedings.neurips.cc/paper/2011/file/a732804c8566fc8f498947ea59a841f8-Paper.pdf). In Proceedings of the Advances in Neural Information Processing Systems 24 (NIPS 2011).
+[OPT][INF] Stegle, O., Lippert, C., Mooij, J. M., Larence, N. D., & Borgwardt, K. (2011). [Efficient inference in matrix-variate Gaussian models with iid observation noise](https://proceedings.neurips.cc/paper/2011/file/a732804c8566fc8f498947ea59a841f8-Paper.pdf). In Proceedings of the Advances in Neural Information Processing Systems 24 (NIPS 2011).
 
 - **keywords**: inverse, inference, matrix-variate Gaussian models
 - **summary**: In equation (5), it could effectively conpute the inverse of a diagonal matrix plus a Kronecker product.
