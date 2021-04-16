@@ -52,4 +52,9 @@ This repository contains a curated list of awesome references for statistics and
 [OPT][INF] Stegle, O., Lippert, C., Mooij, J. M., Larence, N. D., & Borgwardt, K. (2011). [Efficient inference in matrix-variate Gaussian models with iid observation noise](https://proceedings.neurips.cc/paper/2011/file/a732804c8566fc8f498947ea59a841f8-Paper.pdf). In Proceedings of the Advances in Neural Information Processing Systems 24 (NIPS 2011).
 
 - **keywords**: inverse, inference, matrix-variate Gaussian models
-- **summary**: In equation (5), it could effectively conpute the inverse of a diagonal matrix plus a Kronecker product.
+- **summary**: In equation (5), it could effectively compute the inverse of a diagonal matrix plus a Kronecker product.
+
+[LT][OPT] Andersen Ang, [Slides: Nuclear norm is the tightest convex envelop of rank function within the unit ball](https://angms.science/doc/LA/NuclearNorm_cvxEnv_rank.pdf). 
+
+- **keywords**: nuclear norm, rank, convex envelop
+- **summary**: Find/prove nuclear norm is the tightest convex envelop of rank. The same argument can be used for other nonconvex and discontinuous regularization.
