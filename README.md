@@ -22,6 +22,11 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: Python package/library, Pypi, twine
 
+[SW] [Basic Tutorial for Cython](https://cython.readthedocs.io/en/latest/src/tutorial/cython_tutorial.html)
+
+- **keywords**: Python package/library, Cython, C/C++
+- **summary**: Cython is Python with C data types, to speed up the Python loops.
+
 ## Reading
 
 [LT] Garnham, A. L., & Prendergast, L. A. (2013). [A note on least squares sensitivity in single-index model estimation and the benefits of response transformations](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-7/issue-none/A-note-on-least-squares-sensitivity-in-single-index-model/10.1214/13-EJS831.full). Electronic Journal of Statistics, 7, 1983-2004.
