@@ -68,3 +68,8 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: sparse regression, scad, MCP
 - **summary**: A Python/R library for sparse regression, including Lasso, SCAD, and MCP.
+
+[OPT] Zou, H., & Li, R. (2008). [One-step sparse estimates in nonconcave penalized likelihood models](https://arxiv.org/pdf/0808.1012.pdf). Annals of statistics, 36(4), 1509.
+
+- **keywords**: SCAD, local linear approximation (LLA)
+- **summary**: Solve the SCAD by repeatedly solving Lasso in (2.7).
