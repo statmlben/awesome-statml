@@ -79,7 +79,7 @@ This repository contains a curated list of awesome references for statistics and
 - **keywords**: adaptive lasso, 2SLS, causal inference, invalid IV
 - **summary**: Use adaptive lasso to select invalid IVs in 2SLS.
 
-[CI][METH] Egami, N., Fong, C. J., Grimmer, J., Roberts, M. E., & Stewart, B. M. (2018). How to make causal inferences using texts. arXiv preprint arXiv:1802.02163.
+[CI][METH] Egami, N., Fong, C. J., Grimmer, J., Roberts, M. E., & Stewart, B. M. (2018). [How to make causal inferences using texts](https://scholar.princeton.edu/sites/default/files/bstewart/files/ais.pdf). arXiv preprint arXiv:1802.02163.
 
 - **keywords**: text, causal inference
 - **summary**: Causal inference based on textual data, text could be treatment or outcome.
