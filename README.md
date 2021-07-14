@@ -10,7 +10,7 @@ This repository contains a curated list of awesome references for statistics and
 |-|-|-|-|
 | :golf: Methodology (METH) | :blue_book: Learning Theory (LT) | :dart: Optimization (OPT) | :mag_right: Statistical Inference (INF) |
 | :computer: Software (SW) | :unlock: Explainable AI (XAI) | :cherries: Biostatistics (BIO) | :keyboard: Empirical Studies (ES) |
-|:dart: Deep Learning (DL) | :bar_chart: Dataset (DATA) |
+|:dart: Deep Learning (DL) | :bar_chart: Dataset (DATA) | :arrow_right: Causal Inference (CI) |
 
 ## Must-Read-Refs
 
@@ -74,7 +74,12 @@ This repository contains a curated list of awesome references for statistics and
 - **keywords**: SCAD, local linear approximation (LLA)
 - **summary**: Solve the SCAD by repeatedly solving Lasso in (2.7).
 
-[BIO][METH] Windmeijer, F., Farbmacher, H., Davies, N., & Davey Smith, G. (2019). [On the use of the lasso for instrumental variables estimation with some invalid instruments](https://www.tandfonline.com/doi/full/10.1080/01621459.2018.1498346). Journal of the American Statistical Association, 114(527), 1339-1350.
+[BIO][METH][CI] Windmeijer, F., Farbmacher, H., Davies, N., & Davey Smith, G. (2019). [On the use of the lasso for instrumental variables estimation with some invalid instruments](https://www.tandfonline.com/doi/full/10.1080/01621459.2018.1498346). Journal of the American Statistical Association, 114(527), 1339-1350.
 
 - **keywords**: adaptive lasso, 2SLS, causal inference, invalid IV
 - **summary**: Use adaptive lasso to select invalid IVs in 2SLS.
+
+[CI][METH] Egami, N., Fong, C. J., Grimmer, J., Roberts, M. E., & Stewart, B. M. (2018). How to make causal inferences using texts. arXiv preprint arXiv:1802.02163.
+
+- **keywords**: text, causal inference
+- **summary**: Causal inference based on textual data, text could be treatment or outcome.
