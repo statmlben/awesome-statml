@@ -88,3 +88,9 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: noisy labels, unbalanced-loss
 - **summary**: Model the noisy labels by class-conditional random noise model (CCN). Based on CCN, the authors find that the minimizer of classification with noisy labels is drifted Bayes rule: which coincides with the Bayes rule of unbalanced loss.
+
+
+## Contributors
+<a href = "https://github.com/StatML-Reading/awesome-statml/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=StatML-Reading/awesome-statml"/>
+</a>
