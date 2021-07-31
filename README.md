@@ -8,8 +8,8 @@ This repository contains a curated list of awesome references for statistics and
 
 | | | | |
 |-|-|-|-|
-| :golf: Methodology (METH) | :blue_book: Learning Theory (LT) | :dart: Optimization (OPT) | :mag_right: Statistical Inference (INF) |
-| :computer: Software (SW) | :unlock: Explainable AI (XAI) | :cherries: Biostatistics (BIO) | :keyboard: Empirical Studies (ES) |
+| :golf: Method (METH) | :blue_book: Learning Theory (LT) | :dart: Optimization (OPT) | :mag_right: Statistical Inference (INF) |
+| :computer: Software (SW) | :unlock: Explainable AI (XAI) | :cherries: Biostat (BIO) | :keyboard: Empirical Studies (ES) |
 |:dart: Deep Learning (DL) | :bar_chart: Dataset (DATA) | :arrow_right: Causal Inference (CI) |
 
 ## Must-Read-Refs
@@ -83,3 +83,8 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: text, causal inference
 - **summary**: Causal inference based on textual data, text could be treatment or outcome.
+
+[METH][LT] Natarajan, N., Dhillon, I. S., Ravikumar, P. K., & Tewari, A. (2013). [Learning with noisy labels](https://papers.nips.cc/paper/2013/file/3871bd64012152bfb53fdf04b401193f-Paper.pdf). Advances in neural information processing systems, 26, 1196-1204.
+
+- **keywords**: noisy labels, unbalanced-loss
+- **summary**: Model the noisy labels by class-conditional random noise model (CCN). Based on CCN, the authors find that the minimizer of classification with noisy labels is drifted Bayes rule: which coincides with the Bayes rule of unbalanced loss.
