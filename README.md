@@ -6,11 +6,12 @@ This repository contains a curated list of awesome references for statistics and
 
 ## Tags
 
-| | | | |
-|-|-|-|-|
-| :golf: Method (METH) | :blue_book: Learning Theory (LT) | :dart: Optimization (OPT) | :mag_right: Statistical Inference (INF) |
-| :computer: Software (SW) | :unlock: Explainable AI (XAI) | :cherries: Biostat (BIO) | :keyboard: Empirical Studies (ES) |
-|:dart: Deep Learning (DL) | :bar_chart: Dataset (DATA) | :arrow_right: Causal Inference (CI) |
+| | | |
+|-|-|-|
+| :golf: Methodology (METH) | :blue_book: Learning Theory (LT) | :dart: Optimization (OPT) | 
+| :mag_right: Statistical Inference (INF) | :computer: Software (SW) | :unlock: Explainable AI (XAI) | 
+| :cherries: Biostatistics (BIO) | :keyboard: Empirical Studies (ES) | :dart: Deep Learning (DL) | 
+| :bar_chart: Dataset (DATA) | :arrow_right: Causal Inference (CI) |
 
 ## Must-Read-Refs
 
