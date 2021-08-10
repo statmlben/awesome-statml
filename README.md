@@ -93,7 +93,7 @@ This repository contains a curated list of awesome references for statistics and
 [METH][DL] Jeremy Jordan, 2018. [An overview of semantic image segmentation.](https://www.jeremyjordan.me/semantic-segmentation/#loss) 
 
 - **keywords**: image segmentation, Dice loss
-- **summary**: A introduction for image segmentation, including background, existing methods and loss functions.
+- **summary**: A introduction for image segmentation, including background, existing methods and loss functions. 
 
 
 ## Contributors
