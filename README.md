@@ -90,6 +90,11 @@ This repository contains a curated list of awesome references for statistics and
 - **keywords**: noisy labels, unbalanced-loss
 - **summary**: Model the noisy labels by class-conditional random noise model (CCN). Based on CCN, the authors find that the minimizer of classification with noisy labels is drifted Bayes rule: which coincides with the Bayes rule of unbalanced loss.
 
+[METH][DL] Jeremy Jordan, 2018. [An overview of semantic image segmentation.](https://www.jeremyjordan.me/semantic-segmentation/#loss) 
+
+- **keywords**: image segmentation, Dice loss
+- **summary**: A introduction for image segmentation, including background, existing methods and loss functions.
+
 
 ## Contributors
 <a href = "https://github.com/StatML-Reading/awesome-statml/graphs/contributors">
