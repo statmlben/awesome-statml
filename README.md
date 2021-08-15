@@ -95,6 +95,10 @@ This repository contains a curated list of awesome references for statistics and
 - **keywords**: image segmentation, Dice loss
 - **summary**: A introduction for image segmentation, including background, existing methods and loss functions. 
 
+[ES][DATA][BIO] Shit, S., Paetzold, J. C., Sekuboyina, A., Ezhov, I., Unger, A., Zhylka, A., ... & Menze, B. H. (2021). [clDice-a Novel Topology-Preserving Loss Function for Tubular Structure Segmentation](https://arxiv.org/pdf/2003.07311.pdf). In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 16560-16569).
+
+- **keywords**: image segmentation, Dice loss, topology-preservation
+- **summary**: A novel Dice-based loss function for medical image segmentation. The motivation is topology-preservation and skeleta of vessels in medical image. Moreover, the trackable computing losses are proposed with an ad-hoc manner. 
 
 ## Contributors
 <a href = "https://github.com/StatML-Reading/awesome-statml/graphs/contributors">
