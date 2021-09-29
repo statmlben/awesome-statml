@@ -100,6 +100,12 @@ This repository contains a curated list of awesome references for statistics and
 - **keywords**: image segmentation, Dice loss, topology-preservation
 - **summary**: A novel Dice-based loss function for medical image segmentation. The motivation is topology-preservation and skeleta of vessels in medical image. Moreover, the trackable computing losses are proposed with an ad-hoc manner. 
 
+[ES][DL] Peng, H., Mou, L., Li, G., Chen, Y., Lu, Y., & Jin, Z. (2015). [A comparative study on regularization strategies for embedding-based neural networks](https://aclanthology.org/D15-1252.pdf). arXiv preprint arXiv:1508.03721.
+
+- **keywords**: regularization, embedding
+- **summary**: A comparative empirical study (Experiment A and B) for different regularization in embedding-based neural networks, including (i) l2-reg for other layers (**BOTH WORK**); (ii) l2-reg for an embedding layer (**A WORKS**); (iii) re-embedding words: l2-reg in difference on an embedding layer and a pre-trained layer (**NO WORKS**); (iv) Dropout for other layers (**BOTH WORK**). 
+
+
 ## Contributors
 <a href = "https://github.com/StatML-Reading/awesome-statml/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=StatML-Reading/awesome-statml"/>
