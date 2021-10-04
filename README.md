@@ -11,8 +11,7 @@ This repository contains a curated list of awesome references for statistics and
 | :golf: Methodology (METH) | :blue_book: Learning Theory (LT) | :dart: Optimization (OPT) | 
 | :mag_right: Statistical Inference (INF) | :computer: Software (SW) | :unlock: Explainable AI (XAI) | 
 | :cherries: Biostatistics (BIO) | :keyboard: Empirical Studies (ES) | :globe_with_meridians: Deep Learning (DL) | 
-| :bar_chart: Dataset (DATA) | :arrow_right: Causal Inference (CI) | :spiral_notepad: 
-Natural Language Learning (NLP) | 
+| :bar_chart: Dataset (DATA) | :arrow_right: Causal Inference (CI) | :spiral_notepad: Natural Language Learning (NLP) | 
 
 ## Must-Read-Refs
 
