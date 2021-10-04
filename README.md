@@ -11,7 +11,8 @@ This repository contains a curated list of awesome references for statistics and
 | :golf: Methodology (METH) | :blue_book: Learning Theory (LT) | :dart: Optimization (OPT) | 
 | :mag_right: Statistical Inference (INF) | :computer: Software (SW) | :unlock: Explainable AI (XAI) | 
 | :cherries: Biostatistics (BIO) | :keyboard: Empirical Studies (ES) | :globe_with_meridians: Deep Learning (DL) | 
-| :bar_chart: Dataset (DATA) | :arrow_right: Causal Inference (CI) |
+| :bar_chart: Dataset (DATA) | :arrow_right: Causal Inference (CI) | :spiral_notepad: 
+Natural Language Learning (NLP) | 
 
 ## Must-Read-Refs
 
@@ -104,6 +105,11 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: regularization, embedding
 - **summary**: A comparative empirical study (Experiment A and B) for different regularization in embedding-based neural networks, including (i) l2-reg for other layers (**BOTH WORK**); (ii) l2-reg for an embedding layer (**A WORKS**); (iii) re-embedding words: l2-reg in difference on an embedding layer and a pre-trained layer (**NO WORKS**); (iv) Dropout for other layers (**BOTH WORK**). 
+
+[CI][INF] Feder, A., Keith, K. A., Manzoor, E., Pryzant, R., Sridhar, D., Wood-Doughty, Z., ... & Yang, D. (2021). [Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond](https://arxiv.org/pdf/2109.00725.pdf). arXiv preprint arXiv:2109.00725.
+
+- **keywords**: causal inference, NLP, survey
+- **summary**: (i) Background of CI; (ii) Text as treatment, outcome, or confounder; (iii) CI -> ML prediction;
 
 
 ## Contributors
