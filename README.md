@@ -107,7 +107,7 @@ This repository contains a curated list of awesome references for statistics and
 
 [CI][INF] Feder, A., Keith, K. A., Manzoor, E., Pryzant, R., Sridhar, D., Wood-Doughty, Z., ... & Yang, D. (2021). [Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond](https://arxiv.org/pdf/2109.00725.pdf). arXiv preprint arXiv:2109.00725.
 
-- **keywords**: causal inference, NLP, survey
+- **keywords**: causal inference, NLP, **survey**
 - **summary**: (i) Background of CI; (ii) Text as treatment, outcome, or confounder; (iii) CI -> ML prediction;
 
 
