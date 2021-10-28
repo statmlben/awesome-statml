@@ -111,6 +111,12 @@ This repository contains a curated list of awesome references for statistics and
 - **summary**: (i) Background of CI; (ii) Text as treatment, outcome, or confounder; (iii) CI -> ML prediction;
 
 
+[METH][LT] Zaheer, M., Kottur, S., Ravanbakhsh, S., Poczos, B., Salakhutdinov, R., & Smola, A. (2017). Deep sets. arXiv preprint arXiv:1703.06114.
+
+- **keywords**: permutation invariance; learning with set
+- **summary**: (i) permutation invariance iff the learning model can be express as a sum function;
+
+
 ## Contributors
 <a href = "https://github.com/StatML-Reading/awesome-statml/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=StatML-Reading/awesome-statml"/>
