@@ -110,12 +110,15 @@ This repository contains a curated list of awesome references for statistics and
 - **keywords**: causal inference, NLP, **survey**
 - **summary**: (i) Background of CI; (ii) Text as treatment, outcome, or confounder; (iii) CI -> ML prediction;
 
-
 [METH][LT] Zaheer, M., Kottur, S., Ravanbakhsh, S., Poczos, B., Salakhutdinov, R., & Smola, A. (2017). Deep sets. arXiv preprint arXiv:1703.06114.
 
 - **keywords**: permutation invariance; learning with set
 - **summary**: (i) permutation invariance iff the learning model can be express as a sum function;
 
+[METH][LT] Cheng, J., Levina, E., Wang, P., & Zhu, J. (2014). [A sparse Ising model with covariates](https://doi.org/10.1111/biom.12202). Biometrics, 70(4), 943-953.
+
+- **keywords**: Ising model; label dependence
+- **summary**: (i) extend the dependence in Ising model to be a function of features;
 
 ## Contributors
 <a href = "https://github.com/StatML-Reading/awesome-statml/graphs/contributors">
