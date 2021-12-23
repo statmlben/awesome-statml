@@ -120,7 +120,7 @@ This repository contains a curated list of awesome references for statistics and
 - **keywords**: Ising model; label dependence
 - **summary**: (i) extend the dependence in Ising model to be a function of features;
 
-## Contributors
-<a href = "https://github.com/StatML-Reading/awesome-statml/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=StatML-Reading/awesome-statml"/>
-</a>
+[LT][DL] Bartlett, P., Foster, D. J., & Telgarsky, M. (2017). [Spectrally-normalized margin bounds for neural networks](https://arxiv.org/pdf/1706.08498.pdf). arXiv preprint arXiv:1706.08498.
+
+- **keywords**: covering number, Rademacher complexity, estimation error bound
+- **summary**: The estimation error bounds for neural networks based on covering number and Rademacher complexity
