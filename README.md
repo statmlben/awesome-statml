@@ -128,4 +128,4 @@ This repository contains a curated list of awesome references for statistics and
 [LT][DL] Bauer, B., & Kohler, M. (2019). [On deep learning as a remedy for the curse of dimensionality in nonparametric regression](https://projecteuclid.org/journals/annals-of-statistics/volume-47/issue-4/On-deep-learning-as-a-remedy-for-the-curse-of/10.1214/18-AOS1747.full). The Annals of Statistics, 47(4), 2261-2285.
 
 - **keywords**: regret bound, estimation error, approximation error
-- **summary**: Both estimation error and approximation error are provided in the paper.
+- **summary**: Both estimation error and approximation error (Theorems 2-3) are provided in the paper.
