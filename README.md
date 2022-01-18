@@ -28,6 +28,11 @@ This repository contains a curated list of awesome references for statistics and
 - **keywords**: Python package/library, Cython, C/C++
 - **summary**: Cython is Python with C data types, to speed up the Python loops.
 
+[METH][LT][INF] Muandet, K., Fukumizu, K., Sriperumbudur, B., & Schölkopf, B. (2016). [Kernel mean embedding of distributions: A review and beyond](https://arxiv.org/pdf/1605.09522.pdf). arXiv preprint arXiv:1605.09522.
+
+- **keywords**: Kernel method, RKHS, MMD
+- **summary**: Overview of kernel methods, properties of RKHS and kernel-based MMD.
+
 ## Reading
 
 [LT] Garnham, A. L., & Prendergast, L. A. (2013). [A note on least squares sensitivity in single-index model estimation and the benefits of response transformations](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-7/issue-none/A-note-on-least-squares-sensitivity-in-single-index-model/10.1214/13-EJS831.full). Electronic Journal of Statistics, 7, 1983-2004.
