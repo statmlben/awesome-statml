@@ -134,3 +134,8 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: regret bound, estimation error, approximation error
 - **summary**: Both estimation error and approximation error (Theorems 2-3) are provided in the paper.
+
+[LT][DL] Guo, Z. C., Shi, L., & Lin, S. B. (2019). [Realizing data features by deep nets](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8924927). IEEE Transactions on Neural Networks and Learning Systems, 31(10), 4036-4048.
+
+- **keywords**: covering number, estimation error bound
+- **summary**: VC-type covering number for neural networks
