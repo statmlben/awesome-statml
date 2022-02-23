@@ -15,6 +15,8 @@ This repository contains a curated list of awesome references for statistics and
 
 ## Must-Read-Refs
 
+[METH] Fisher, R. A. (1922). [On the mathematical foundations of theoretical statistics](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.1922.0009). Philosophical transactions of the Royal Society of London. Series A, containing papers of a mathematical or physical character, 222(594-604), 309-368.
+
 [METH][OPT] Breiman, L. (2001). [Random forests](https://link.springer.com/article/10.1023/A:1010933404324). Machine Learning, 45(1), 5-32.
 
 - **keywords**: random forest, assemble methods, bias-variance trade-off
