@@ -141,3 +141,8 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: covering number, estimation error bound
 - **summary**: VC-type covering number for neural networks
+
+[LT][METH] Mazumder, R., Hastie, T., & Tibshirani, R. (2010). [Spectral regularization algorithms for learning large incomplete matrices](https://www.jmlr.org/papers/volume11/mazumder10a/mazumder10a.pdf). The Journal of Machine Learning Research, 11, 2287-2322.
+
+- **keywords**: soft-impute, low-rank, nuclear norm
+- **summary**: (i) Solving low-rank regression by soft-thresholded SVD. (ii) Relation between low-rank regression and latent factor model or matrix factorization in Section 8 (Theorem 3) is quite interesting.
