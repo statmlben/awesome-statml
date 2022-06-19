@@ -148,3 +148,8 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: soft-impute, low-rank, nuclear norm
 - **memo**: (i) Solving low-rank regression by soft-thresholded SVD. (ii) Relation between low-rank regression and latent factor model or matrix factorization in Section 8 (Theorem 3) is quite interesting.
+
+[LT][METH][INF] Alex Stephenson, [Standard Errors and the Delta Method](https://www.alexstephenson.me/post/2022-04-02-standard-errors-and-the-delta-method/).
+
+- **keywords**: delta method, asymptotic distribution, standard error
+- **memo**: Asymptotic distribution of functions over a random variable; when the asymptotic behavior of this random variable is obtained.
