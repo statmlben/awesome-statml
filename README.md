@@ -153,3 +153,7 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: delta method, asymptotic distribution, standard error
 - **memo**: Asymptotic distribution of functions over a random variable; when the asymptotic behavior of this random variable is obtained.
+
+[INF] Aaron Mishkin, [Instrumental Variables, DeepIV, and Forbidden Regressions](https://cs.stanford.edu/~amishkin/assets/slides/instrumental_variables.pdf)
+
+- **keywords**: instrumental Variables, causal inference
