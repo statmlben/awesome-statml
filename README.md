@@ -157,3 +157,7 @@ This repository contains a curated list of awesome references for statistics and
 [INF] Aaron Mishkin, [Instrumental Variables, DeepIV, and Forbidden Regressions](https://cs.stanford.edu/~amishkin/assets/slides/instrumental_variables.pdf)
 
 - **keywords**: instrumental Variables, causal inference
+
+[INF] Vovk, V., & Wang, R. (2020). [Combining p-values via averaging](https://doi.org/10.1093/biomet/asaa027). Biometrika, 107(4), 791-808.
+
+- **keywords**: Combining p-values; 
