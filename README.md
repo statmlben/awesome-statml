@@ -161,3 +161,8 @@ This repository contains a curated list of awesome references for statistics and
 [INF] Vovk, V., & Wang, R. (2020). [Combining p-values via averaging](https://doi.org/10.1093/biomet/asaa027). Biometrika, 107(4), 791-808.
 
 - **keywords**: Combining p-values; 
+
+[OPT] Iusem, A. N. (2003). [On the convergence properties of the projected gradient method for convex optimization](https://www.scielo.br/j/cam/a/jkfWkT6CJb9G3bDqH5SLpMy/?format=pdf&lang=en). Computational & Applied Mathematics, 22, 37-52.
+
+- **keywords**: projected gradient method, convex optimization
+- **memo**: Proposition 4 shows that projected GD convergence to stationary point (if the cluster point exists) when objective function is continuously differentiable, and the feasible domain is convex.
