@@ -25,6 +25,10 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: Bayes rule, Fisher consistency, convex optimization; empirical process theory; excess risk bounds
 
+[OPT] Boyd, S., Parikh, N., Chu, E., Peleato, B., & Eckstein, J. (2011). [Distributed optimization and statistical learning via the alternating direction method of multipliers](https://stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf). Foundations and Trends® in Machine learning, 3(1), 1-122.
+
+- **keywords**: Convex Optimization, Proximity, Smooth objective function
+
 [SW] [How to upload your python package to PyPi](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56).
 
 - **keywords**: Python package/library, Pypi, twine
@@ -166,3 +170,5 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: projected gradient method, convex optimization
 - **memo**: Proposition 4 shows that projected GD convergence to stationary point (if the cluster point exists) when objective function is continuously differentiable, and the feasible domain is convex.
+
+
