@@ -171,4 +171,6 @@ This repository contains a curated list of awesome references for statistics and
 - **keywords**: projected gradient method, convex optimization
 - **memo**: Proposition 4 shows that projected GD convergence to stationary point (if the cluster point exists) when objective function is continuously differentiable, and the feasible domain is convex.
 
+[METH][OPT] [Some tensor algebra](https://staffwww.dcs.shef.ac.uk/people/H.Lu/MSL/MSLbook-Chapter3.pdf)
 
+- **keywords**: Mode-product, tensor-matrix multiplication, tensor-vector multiplication
