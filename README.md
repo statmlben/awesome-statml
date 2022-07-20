@@ -174,3 +174,7 @@ This repository contains a curated list of awesome references for statistics and
 [METH][OPT] [Some tensor algebra](https://staffwww.dcs.shef.ac.uk/people/H.Lu/MSL/MSLbook-Chapter3.pdf)
 
 - **keywords**: Mode-product, tensor-matrix multiplication, tensor-vector multiplication
+
+[OPT] Andersen, M., Dahl, J., Liu, Z., Vandenberghe, L., Sra, S., Nowozin, S., & Wright, S. J. (2011). [Interior-point methods for large-scale cone programming](http://www.seas.ucla.edu/~vandenbe/publications/mlbook.pdf). Optimization for machine learning, 5583.
+
+- **keywords**: cone programming, QP, interior-point methods
