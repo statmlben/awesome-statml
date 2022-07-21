@@ -178,3 +178,9 @@ This repository contains a curated list of awesome references for statistics and
 [OPT] Andersen, M., Dahl, J., Liu, Z., Vandenberghe, L., Sra, S., Nowozin, S., & Wright, S. J. (2011). [Interior-point methods for large-scale cone programming](http://www.seas.ucla.edu/~vandenbe/publications/mlbook.pdf). Optimization for machine learning, 5583.
 
 - **keywords**: cone programming, QP, interior-point methods
+
+[OPT] Tibshirani, R. J., [Coordinate Descent](https://www.stat.cmu.edu/~ryantibs/convexopt-S15/lectures/22-coord-desc.pdf).
+
+- **keywords**: Coordinate Descent
+- **memo**: The CD algorithm and its convergence rate under different assumptions.
+
