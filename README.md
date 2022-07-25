@@ -184,3 +184,11 @@ This repository contains a curated list of awesome references for statistics and
 - **keywords**: Coordinate Descent
 - **memo**: The CD algorithm and its convergence rate under different assumptions.
 
+[METH] Jansche, M. (2007, June). [A maximum expected utility framework for binary sequence labeling](https://aclanthology.org/P07-1093.pdf). In Proceedings of the 45th Annual Meeting of the Association of Computational Linguistics (pp. 736-743).
+
+- **keywords**: F-score, label-dependence
+
+[LT] Pillai, I., Fumera, G., & Roli, F. (2017). [Designing multi-label classifiers that maximize F measures: State of the art](https://www.sciencedirect.com/science/article/pii/S0031320316302217). Pattern Recognition, 61, 394-404.
+
+- **keywords**: F-score, decision-theoretic approach
+- **memo**: A recent survey for F-score maximization
