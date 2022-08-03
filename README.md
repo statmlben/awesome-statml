@@ -192,3 +192,8 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: F-score, decision-theoretic approach
 - **memo**: A recent survey for F-score maximization
+
+[OPT] Stephen Boyd and Jon Dattorro, [Alternating Projections](https://web.stanford.edu/class/ee392o/alt_proj.pdf).
+
+- **keywords**: alternating projection, 
+- **memo**: AP is an algorithm computing a point in the intersection of some convex sets (or smallest distance of two sets).
