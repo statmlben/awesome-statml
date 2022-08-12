@@ -197,3 +197,8 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: alternating projection, 
 - **memo**: AP is an algorithm computing a point in the intersection of some convex sets (or smallest distance of two sets).
+
+[INF][METH] Gretton, A., Borgwardt, K. M., Rasch, M. J., Schölkopf, B., & Smola, A. (2012). [A kernel two-sample test](https://www.jmlr.org/papers/volume13/gretton12a/gretton12a.pdf?ref=https://githubhelp.com). Journal of Machine Learning Research, 13(1), 723-773.
+
+- **keywords**: MMD, kernel methods, two-sample test, integral probability metric, hypothesis testing
+- **memo**: non-parametric distribution discrepancy test based on MMD.
