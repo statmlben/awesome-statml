@@ -202,3 +202,8 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: MMD, kernel methods, two-sample test, integral probability metric, hypothesis testing
 - **memo**: non-parametric distribution discrepancy test based on MMD.
+
+[METH][DL] Sundeep, T. [Knowledge Distillation: Principles, Algorithms, Applications](https://neptune.ai/blog/knowledge-distillation). neptuneblog.
+
+- **keywords**: knowledge distillation
+- **memo**: introduction for knowledge distillation: online/offline knowledge distillation; existing methods
