@@ -207,3 +207,8 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: knowledge distillation
 - **memo**: introduction for knowledge distillation: online/offline knowledge distillation; existing methods
+
+[OPT] Powell, Michael JD. "On search directions for minimization algorithms." Mathematical programming 4, no. 1 (1973): 193-201.
+
+- **keywords**: BCD, block coordinate descent
+- **memo**: When F is nonconvex, BCD may cycle and stagnate
