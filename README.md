@@ -212,3 +212,9 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: BCD, block coordinate descent
 - **memo**: When F is nonconvex, BCD may cycle and stagnate
+
+[METH][OPT] Zheng, X., Aragam, B., Ravikumar, P. K., & Xing, E. P. (2018). [DAGs with NO TEARS: Continuous Optimization for Structure Learning](https://arxiv.org/pdf/1803.01422.pdf) Advances in Neural Information Processing Systems, 31.
+
+- **keywords**: DAG, matrix power
+- **memo**: convert DAG constrains as one matrix power equality constraint. 
+
