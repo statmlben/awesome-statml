@@ -218,7 +218,7 @@ This repository contains a curated list of awesome references for statistics and
 - **keywords**: DAG, matrix power
 - **memo**: convert DAG constrains as one matrix power equality constraint. 
 
-Shalev-Shwartz, S., & Zhang, T. (2012). [Stochastic dual coordinate ascent methods for regularized loss minimization](http://tongzhang-ml.org/papers/jmlr13-sdca.pdf). Journal of Machine Learning Research.
+[OPT] Shalev-Shwartz, S., & Zhang, T. (2012). [Stochastic dual coordinate ascent methods for regularized loss minimization](http://tongzhang-ml.org/papers/jmlr13-sdca.pdf). Journal of Machine Learning Research.
 
 - **keywords**: stochastic dual coordinate ascent, liblinear, coordinate descent
 - **memo**: simultaneously update primal/dual variables; generalize the algorithm from liblinear
