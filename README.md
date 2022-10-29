@@ -222,3 +222,8 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: stochastic dual coordinate ascent, liblinear, coordinate descent
 - **memo**: simultaneously update primal/dual variables; generalize the algorithm from liblinear
+
+[OPT] Glasmachers, T., & Dogan, U. (2013, October). [Accelerated coordinate descent with adaptive coordinate frequencies](http://proceedings.mlr.press/v29/Glasmachers13.pdf). In Asian Conference on Machine Learning (pp. 72-86). PMLR.
+
+- **keywords**: coordinate descent
+- **memo**: Using Adaptive Coordinate Frequencies to update coordinates
