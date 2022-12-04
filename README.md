@@ -227,3 +227,8 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: coordinate descent
 - **memo**: Using Adaptive Coordinate Frequencies to update coordinates
+
+[OPT] Zimmert, J., de Witt, C. S., Kerg, G., & Kloft, M. (2015, December). [Safe screening for support vector machines](http://opt-ml.org/papers/OPT2015_paper_38.pdf). In NIPS 2015 Workshop on Optimization in Machine Learning (OPT).
+
+- **keywords**: screening, shrinking, coordinate descent
+- **memo**: screening the shrinking variables for boxed QP in coordinate desecent: when the gradient is non-zeros then the variable is in the boundary.
