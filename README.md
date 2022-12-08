@@ -232,3 +232,12 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: screening, shrinking, coordinate descent
 - **memo**: screening the shrinking variables for boxed QP in coordinate desecent: when the gradient is non-zeros then the variable is in the boundary.
+
+[OPT][LT] Raginsky, M., Rakhlin, A., & Telgarsky, M. (2017, June). [Non-convex learning via stochastic gradient langevin dynamics: a nonasymptotic analysis.](http://proceedings.mlr.press/v65/raginsky17a/raginsky17a.pdf) In Conference on Learning Theory (pp. 1674-1703). PMLR.
+
+- **keywords**: SGD, global solution, langevin process, SDE
+
+[CI][METH][OPT][LT] Kang, H., Zhang, A., Cai, T. T., & Small, D. S. (2016). [Instrumental variables estimation with some invalid instruments and its application to Mendelian randomization](https://arxiv.org/pdf/1401.5755.pdf). Journal of the American statistical Association, 111(513), 132-144.
+
+- **keywords**: 2SLS, invalid IV, sparse regression
+- **memo**: introduce sparse regression in the second stage of 2SLS in separate the effect from invalid IVs
