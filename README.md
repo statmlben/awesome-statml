@@ -241,3 +241,8 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: 2SLS, invalid IV, sparse regression
 - **memo**: introduce sparse regression in the second stage of 2SLS in separate the effect from invalid IVs
+
+[METH][LT] Dalalyan, A. S., & Tsybakov, A. B. (2007). [Aggregation by exponential weighting and sharp oracle inequalities](http://imagine.enpc.fr/~dalalyan/Download/DTcolt07.pdf). COLT 2007, San Diego, CA, USA; June 13-15, 2007. Proceedings 20 (pp. 97-111). Springer Berlin Heidelberg.
+
+- **keywords**: model aggregate, bagging
+- **memo**: Theorem 2 indicates model aggregate is close to the best performance based on model selection
