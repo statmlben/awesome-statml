@@ -246,3 +246,10 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: model aggregate, bagging
 - **memo**: Theorem 2 indicates model aggregate is close to the best performance based on model selection
+
+[LT] Chen, J. (2017). [Consistency of the MLE under mixture models](https://projecteuclid.org/journals/statistical-science/volume-32/issue-1/Consistency-of-the-MLE-under-Mixture-Models/10.1214/16-STS578.full).
+
+[LT] Chen, J., & Tan, X. (2009). [Inference for multivariate normal mixtures](https://doi.org/10.1016/j.jmva.2008.12.005). Journal of Multivariate Analysis, 100(7), 1367-1383.
+
+- **keywords**: Nonparametric MLE, identfiability, penalized MLE
+- **memo**: Conditions for consistency of Nonparametric MLE under Mixture Model. (i) Identifiability of Mixture Model is a necessary condition. (ii) Most existing general approaches do NOT apply to normal mixture models. (A) Theorem 3.1: Under the finite normal mixture model with *equal variance* and #Group is known, the MLE is strongly consistent. (B) Section 3.2: Under the finite normal mixture model with *unequal variance* and #Group is known, the MLE may NOT consistent. Yet, this issue can be solved via *penalzied* (on variance) MLE. (C) Section 3.3: The proper estimation of the mixing distribution under a finite mixture model requires a very large sample size when the *subpopulations are not well separated*.
