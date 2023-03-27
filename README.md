@@ -257,4 +257,4 @@ This repository contains a curated list of awesome references for statistics and
 [LT] Steinwart, I. (2005). [Consistency of support vector machines and other regularized kernel classifiers](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1377497). IEEE transactions on information theory, 51(1), 128-142.
 
 - **keywords**: universal consistency
-- **memo**: (Classification) Fisher consistency and classification calibration are equivalent.
+- **memo**: Proposition 3.3: (Classification) Fisher consistency and classification calibration are equivalent.
