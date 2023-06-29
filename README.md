@@ -260,3 +260,9 @@ This repository contains a curated list of awesome references for statistics and
 - **memo**: Proposition 3.3: (Classification) Fisher consistency and classification calibration are equivalent.
 
 [CI][INF] Fabian Dablanderm [An introduction to Causal inference](https://fabiandablander.com/r/Causal-Inference.html)
+
+- **keywords**: causal inference
+
+[CI] Lal, A., Lockhart, M., Xu, Y., & Zu, Z. (2023). [How much should we trust instrumental variable estimates in political science? Practical advice based on over 60 replicated studies](https://arxiv.org/pdf/2303.11399.pdf). arXiv preprint arXiv:2303.11399.
+
+- **keywords**: causal inference, instrumental variable
