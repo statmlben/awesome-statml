@@ -266,3 +266,8 @@ This repository contains a curated list of awesome references for statistics and
 [CI] Lal, A., Lockhart, M., Xu, Y., & Zu, Z. (2023). [How much should we trust instrumental variable estimates in political science? Practical advice based on over 60 replicated studies](https://arxiv.org/pdf/2303.11399.pdf). arXiv preprint arXiv:2303.11399.
 
 - **keywords**: causal inference, instrumental variable
+
+[LT][OPT][METH] Loh, P. L., & Wainwright, M. J. (2013). [Regularized M-estimators with nonconvexity: Statistical and algorithmic theory for local optima](https://www.jmlr.org/papers/volume16/loh15a/loh15a.pdf). JMLR.
+
+- **keywords**: high-dimensional statistics, M-estimation, model selection, nonconvex optimization, nonconvex regularization
+- **memo**: ``local minimizer = global minimizer'': any stationary point of the composite objective function will lie within statistical precision of the underlying parameter vector.
