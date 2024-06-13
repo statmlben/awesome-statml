@@ -271,3 +271,7 @@ This repository contains a curated list of awesome references for statistics and
 
 - **keywords**: high-dimensional statistics, M-estimation, model selection, nonconvex optimization, nonconvex regularization
 - **memo**: ``local minimizer = global minimizer'': any stationary point of the composite objective function will lie within statistical precision of the underlying parameter vector.
+
+[METH][OPT] S. Sawyer (2004). [Linear Rank Regression](https://www.math.wustl.edu/~sawyer/handouts/RankRegress.pdf)
+
+- **memo**: motivation: the correlation btw `rank of res` and `res` should be close to zero.
